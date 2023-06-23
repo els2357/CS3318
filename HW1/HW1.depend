@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1675037817 source:/home/student/CSE3318/HW1/hw1_instructor.c
+	"hw1_student.h"
+
+1675037766 /home/student/CSE3318/HW1/hw1_student.h
+	<stdio.h>
+	<stdlib.h>
+
+1675094493 source:/home/student/CSE3318/HW1/hw1_student.c
+	"hw1_student.h"
+
